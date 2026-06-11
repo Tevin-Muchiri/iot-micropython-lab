@@ -528,7 +528,11 @@ This generated two output files:
 ---
 
 ### Full Data Table
-
+| id | device | message_no | temperature | humidity | uptime_seconds | mqtt_topic | received_at |
+|---|---|---|---|---|---|---|---|
+| 1 | ESP32-DHT22 |  | 15.37 | 39.59 |  | iot/lab/sensor | 2026-06-08 14:59:36 |
+| 2 | ESP32-DHT22 | 1 | 26.9 | 56.3 | 12 | iot/lab/sensor | 2026-06-08 14:59:55 |
+| 3 | ESP32-DHT22 | 2 | 26.9 | 56.4 | 15 | iot/lab/sensor | 2026-06-08 14:59:58 |
 <details>
 <summary><b>Click to expand complete sensor data table (43 records)</b></summary>
 
