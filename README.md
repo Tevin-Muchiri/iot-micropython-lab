@@ -740,16 +740,3 @@ This lab successfully demonstrated:
 The project demonstrated a complete IoT pipeline from sensor data acquisition through wireless transmission to persistent storage and analysis.
 
 ---
-
-## Contact Information
-
-**Course:** ICS 4111 - Internet of Things  
-**Institution:** Strathmore University  
-**Date:** June 8, 2026
-
-**Instructor:** sitotia@strathmore.edu  
-**Lab Technologist:** jntonjira@strathmore.edu
-
----
-
-*Lab documentation completed June 11, 2026*
