@@ -18,7 +18,7 @@ with open(csv_filename, 'w', newline='') as csv_file:
     writer = csv.writer(csv_file)
     writer.writerow(column_names) # Write headers
     writer.writerows(rows)        # Write data
-print(f"✅ Successfully saved data to {csv_filename}")
+print(f"Successfully saved data to {csv_filename}")
 
 # ---------------------------------------------------------
 # OPTION B: Save as a Markdown Table (Great for README.md)
@@ -34,6 +34,6 @@ with open(md_filename, 'w') as md_file:
         # Convert None/Null values to empty strings to look cleaner
         clean_row = [str(item) if item is not None else "" for item in row]
         md_file.write("| " + " | ".join(clean_row) + " |\n")
-print(f"✅ Successfully saved data to {md_filename}")
+print(f"Successfully saved data to {md_filename}")
 
 con.close()
