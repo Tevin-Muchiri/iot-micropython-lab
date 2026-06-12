@@ -146,7 +146,7 @@ The firmware (1,760,192 bytes compressed to 1,152,806 bytes) was successfully wr
 
 The ESP32 failed to enter download mode (boot mode 0x13 detected instead of expected mode).
 
-**Resolution:** Pressed and held the BOOT button on the ESP32 while connecting, then released after connection established.
+**Resolution:** Pressed and held the BOOT button on the ESP32 while connecting, then released after the connection was established.
 
 ---
 
@@ -188,7 +188,7 @@ import network
 
 wifi = network.WLAN(network.STA_IF)
 wifi.active(True)
-wifi.connect("K8597", "Q0001111")
+wifi.connect("K8597", "0001111")
 
 while not wifi.isconnected():
     print("Connecting WiFi...")
