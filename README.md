@@ -38,6 +38,26 @@ A 10kohm pull-up resistor was placed between VCC and DATA pins.
 
 ---
 
+## Wokwi Simulation
+
+The Full Circuit Simulation is Created on an interactive Wokwi simulation .
+
+### Circuit Simulation
+
+![Wokwi Simulation](Pictures/wokwi.png)
+
+**Access the Live Simulation:**
+
+🔗 [IoT MicroPython Lab - ESP32-DHT22](https://wokwi.com/projects/462640522885327873)
+
+The simulation allows you to:
+- View the complete ESP32 + DHT22 circuit setup
+- Interact with the virtual components
+- Test the code without physical hardware
+- Understand the wiring connections visually
+
+---
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
