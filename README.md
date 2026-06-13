@@ -44,7 +44,7 @@ The Full Circuit Simulation is Created on an interactive Wokwi simulation .
 
 ### Circuit Simulation
 
-![Wokwi Simulation](Pictures/wokwi.png)
+![Wokwi Simulation](Pictures/Wokwi.png)
 
 **Access the Live Simulation:**
 
