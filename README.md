@@ -20,7 +20,7 @@
 
 ![Full Circuit](Pictures/Full_ESP32_DHT22_Circuit.jpeg)
 
-### ESP32 Connections
+### Complete Circuit Connection
 
 ![ESP32 Connections](Pictures/ESP32_Connections.jpeg)
 
