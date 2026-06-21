@@ -559,13 +559,13 @@ This generated two output files:
 | id | device | message_no | temperature | humidity | uptime_seconds | mqtt_topic | received_at |
 |---|---|---|---|---|---|---|---|
 | 1 | ESP32-DHT22 |  | 15.37 | 39.59 |  | iot/lab/sensor | 2026-06-08 14:59:36 |
-| 2 | ESP32-DHT22 | 1 | 26.9 | 56.3 | 12 | iot/lab/sensor | 2026-06-08 14:59:55 |
-| 3 | ESP32-DHT22 | 2 | 26.9 | 56.4 | 15 | iot/lab/sensor | 2026-06-08 14:59:58 |
-| 4 | ESP32-DHT22 | 3 | 26.9 | 56.5 | 19 | iot/lab/sensor | 2026-06-08 15:00:03 |
-| 5 | ESP32-DHT22 | 4 | 26.9 | 56.600004 | 22 | iot/lab/sensor | 2026-06-08 15:00:06 |
-| 6 | ESP32-DHT22 | 5 | 26.9 | 56.600004 | 25 | iot/lab/sensor | 2026-06-08 15:00:08 |
-| 7 | ESP32-DHT22 | 6 | 26.9 | 56.600004 | 29 | iot/lab/sensor | 2026-06-08 15:00:12 |
-| 8 | ESP32-DHT22 | 7 | 26.9 | 56.600004 | 32 | iot/lab/sensor | 2026-06-08 15:00:14 |
+| 2 | ESP32-DHT22 | 1 | 26.9 | 50 | 12 | iot/lab/sensor | 2026-06-08 14:59:55 |
+| 3 | ESP32-DHT22 | 2 | 26.9 | 58.600004 | 15 | iot/lab/sensor | 2026-06-08 14:59:58 |
+| 4 | ESP32-DHT22 | 3 | 26.9 | 58.600004 | 19 | iot/lab/sensor | 2026-06-08 15:00:03 |
+| 5 | ESP32-DHT22 | 4 | 26.00002 | 58.600004 | 22 | iot/lab/sensor | 2026-06-08 15:00:06 |
+| 6 | ESP32-DHT22 | 5 | 26.9 | 58.600004 | 25 | iot/lab/sensor | 2026-06-08 15:00:08 |
+| 7 | ESP32-DHT22 | 6 | 26.9 | 58.5 | 29 | iot/lab/sensor | 2026-06-08 15:00:12 |
+| 8 | ESP32-DHT22 | 7 | 26.9 | 58.5 | 32 | iot/lab/sensor | 2026-06-08 15:00:14 |
 | 9 | ESP32-DHT22 | 8 | 26.9 | 56.5 | 35 | iot/lab/sensor | 2026-06-08 15:00:18 |
 | 10 | ESP32-DHT22 | 9 | 26.9 | 56.4 | 39 | iot/lab/sensor | 2026-06-08 15:00:22 |
 | 11 | ESP32-DHT22 | 10 | 26.9 | 56.4 | 42 | iot/lab/sensor | 2026-06-08 15:00:24 |
